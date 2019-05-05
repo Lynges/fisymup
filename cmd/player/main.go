@@ -12,8 +12,8 @@ import (
 	ui "github.com/gizak/termui"
 
 	"github.com/BurntSushi/toml"
-	"github.com/lynges/fisymup"
-	"github.com/lynges/susimup"
+	"github.com/Lynges/fisymup"
+	"github.com/Lynges/susimup"
 )
 
 type config struct {
